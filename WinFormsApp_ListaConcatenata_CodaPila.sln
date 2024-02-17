@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_ListaConcatenata_CodaPila", "WinFormsApp_ListaConcatenata_CodaPila\WinFormsApp_ListaConcatenata_CodaPila.csproj", "{69DCB457-4A31-4427-99CB-6613D77B0F6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DCB457-4A31-4427-99CB-6613D77B0F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DCB457-4A31-4427-99CB-6613D77B0F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DCB457-4A31-4427-99CB-6613D77B0F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DCB457-4A31-4427-99CB-6613D77B0F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F188E8F-7D5C-49BC-B111-C922957BD98C}
+	EndGlobalSection
+EndGlobal
